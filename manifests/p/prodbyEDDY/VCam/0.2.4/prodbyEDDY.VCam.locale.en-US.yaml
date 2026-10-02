@@ -9,11 +9,12 @@ PrivacyUrl: https://vcam.prodbyeddy.chatgpt.site/en/about
 Author: EDDY
 PackageName: VCam
 PackageUrl: https://vcam.prodbyeddy.chatgpt.site/en
-License: Proprietary
-ShortDescription: Free iPhone and Android webcam for Windows, using the phone browser over local Wi-Fi.
+License: MIT
+LicenseUrl: https://github.com/prodbyEDDY/vcam/blob/main/LICENSE
+ShortDescription: Free, open-source iPhone and Android webcam for Windows over local Wi-Fi.
 Description: |-
   VCam by EDDY turns an iPhone or Android phone into a DirectShow virtual webcam for compatible Windows applications. Install the Windows receiver and connect the phone through Safari or Chrome with a QR code or one-time code.
-  The current beta is free, with no phone app, ads, watermark or subscription. It requires Windows 10/11 x64 and one local Wi-Fi network without client isolation. Internet access is needed for the website and pairing. Video is sent directly between the devices over encrypted WebRTC.
+  Free and open source under the MIT license, with no phone app, ads, watermark or subscription. It requires Windows 10/11 x64 and one local Wi-Fi network without client isolation. Internet access is needed for the website and pairing. Video is sent directly between the devices over encrypted WebRTC.
   Video only: use a separate microphone. No dedicated USB mode or TURN relay is included. Available camera modes depend on the phone and browser. Keep the phone page visible and the screen unlocked. The beta installer is not signed with a publisher certificate.
 Tags:
 - webcam
